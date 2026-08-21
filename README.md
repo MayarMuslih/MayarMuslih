@@ -1,6 +1,6 @@
-# Hi, I'm Mayar Muslih 
+# Hi, I'm Mayar Muslih
 
-Final-year **Informatics Engineering** student specializing in **Artificial Intelligence** at Damascus University, with a strong focus on **Backend Development** and scalable system architectures.
+Final-year Informatics Engineering student specializing in Artificial Intelligence at Damascus University, with a strong focus on Backend Development and scalable system architectures.
 
 ---
 
@@ -22,7 +22,7 @@ Final-year **Informatics Engineering** student specializing in **Artificial Inte
 ### [Laravel E-commerce API](https://github.com/MayarMuslih)
 * Robust RESTful backend supporting multi-shop platforms, order processing, and a wallet-based payment system.
 
-### Dental Clinic Management System *(In Progress)*
+### [Dental Clinic Management System](https://github.com/MayarMuslih/dentist-sys) (In Progress)
 * Comprehensive administrative dashboard and backend built using **Laravel Filament**.
 
 ### OliveDiseaseNet (AI Diagnostics)
@@ -32,7 +32,7 @@ Final-year **Informatics Engineering** student specializing in **Artificial Inte
 
 ## Current Focus
 
-* Integrating applied **Artificial Intelligence / Computer Vision** models with modern backend APIs.
+* Integrating applied Artificial Intelligence / Computer Vision models with modern backend APIs.
 * Designing high-throughput, tested, and reliable software architectures.
 
 ---
