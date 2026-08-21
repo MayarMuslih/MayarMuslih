@@ -1,10 +1,10 @@
-# Hi, I'm Mayar Muslih 👋
+# Hi, I'm Mayar Muslih 
 
 Final-year **Informatics Engineering** student specializing in **Artificial Intelligence** at Damascus University, with a strong focus on **Backend Development** and scalable system architectures.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 * **Backend & Frameworks:** PHP, Laravel, RESTful APIs, Laravel Filament
 * **Databases:** MySQL, Relational Database Design
@@ -13,7 +13,7 @@ Final-year **Informatics Engineering** student specializing in **Artificial Inte
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [EventIQ - Event Management & Booking API](https://github.com/MayarMuslih/eventiq-laravel-api)
 * Complete backend platform for event management and multi-step booking workflows.
@@ -30,14 +30,14 @@ Final-year **Informatics Engineering** student specializing in **Artificial Inte
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * Integrating applied **Artificial Intelligence / Computer Vision** models with modern backend APIs.
 * Designing high-throughput, tested, and reliable software architectures.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/mayar-muslih-7044032a4](https://www.linkedin.com/in/mayar-muslih-7044032a4/)
 * **Email:** mayarmosleh1019@gmail.com
