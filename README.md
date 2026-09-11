@@ -19,7 +19,7 @@ Final-year Informatics Engineering student specializing in Artificial Intelligen
 * Complete backend platform for event management and multi-step booking workflows.
 * Features Stripe payments, Firebase notifications, and Sanctum authentication.
 
-### [Laravel E-commerce API](https://github.com/MayarMuslih)
+### [Laravel E-commerce API](https://github.com/MayarMuslih/laravel-ecommerce-api)
 * Robust RESTful backend supporting multi-shop platforms, order processing, and a wallet-based payment system.
 
 ### [Dental Clinic Management System](https://github.com/MayarMuslih/dentist-sys) (In Progress)
